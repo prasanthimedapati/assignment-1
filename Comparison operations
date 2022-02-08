@@ -1,0 +1,36 @@
+a=int(input ('enter a value'))
+b=int(input('enter b value'))
+if a<b:
+print('true')
+else 
+print('false')
+if a>b:
+print('true')
+else 
+print('false')
+if a==b
+print('true')
+else
+Print('false')
+if a!=b
+print('true')
+else
+Print('false')
+if a<=b
+print ('true')
+else
+Print ('false')
+if a>=b
+print ('true')
+else
+Print ('false')
+
+Output:
+enter a value 4
+enter b value 3
+true
+false
+false
+true
+true
+false
